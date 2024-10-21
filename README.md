@@ -1,55 +1,50 @@
-# 🏄‍♂️ ASHISH BAVISKAR
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Ashish Baviskar</h1>
+<h3 align="center">Digital Craftsman and Adaptive Programmer</h3>
 
-I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code or making chaos by plague of errors and bugs.
+<a href="https://github.com/AEXIU"><img src="https://komarev.com/ghpvc/?username=AEXIU&style=flat-square&color=blue" alt=""/></a>
 
-  <p align="left">
-  <a href="https://github.com/AEXIU?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AEXIU?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AEXIU?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AEXIU?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
+## 🚀 About Me
 
----
+🤷🏻‍♂️ I'm Ashish Baviskar, a self-evolving **Programmer** (specializing in **ReactJS**, **NextJS**, **ExpressJS** & **NodeJS** Applications) and a **Freelancer** with extensive knowledge of app development.
 
-### 🧰 Languages and Tools
+## 🛠️ Skilled in
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=61DAFB)
+![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 
-#
+### Front-End Development
 
+![next](https://img.shields.io/badge/Next_JS-20232A?style=for-the-badge&logo=vercel&logoColor=61DAFB)
+![react](https://img.shields.io/badge/React_Js-339933?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![tailwind-css](https://img.shields.io/badge/Tailwind_CSS-0081CB?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#
+### Back-End Development
 
-### 📊 Stats
+![nodejs](https://img.shields.io/badge/Node_Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![expressjs](https://img.shields.io/badge/Express_Js-CA4245?style=for-the-badge&logo=express&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![sql](https://img.shields.io/badge/MySql-205375?style=for-the-badge&logo=mysql&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEXIU&show_icons=true&theme=gruvbox)
+### Android Development
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AEXIU&theme=gruvbox&border_radius=4.5) -->
+![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-#
-<!--
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself android development with a dream to build my own app, but that soon got overshadowed by my desire to excel in web development. However, I had another desire I had been pursuing throughout this time - is to make something that will either sell or make me go crazy about it
--->
-[Linkdln]: https://www.linkedin.com/in/ashish-baviskar-784969268/
-[Email]: aashubaviskar@gmail.com
+## 📫 How to Reach Me:
+
+<a href="https://www.linkedin.com/in/ashish-baviskar-784969268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:aashubaviskar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AEXIU&show_icons=true&include_all_commits=true&theme=highcontrast&locale=en" alt="AEXIU" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AEXIU&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AEXIU" />
